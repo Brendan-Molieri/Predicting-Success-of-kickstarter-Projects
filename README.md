@@ -1,4 +1,4 @@
-# Kickstarter is a platform that allows creative innovators to bring their dream to a reality. Kickstarted has allowed funding for over 200,000 unique projects and over $6 Billion total funding contributions.
+# Kickstarter is a platform that allows creative innovators to bring their dream to a reality. Kickstarted has allowed funding for over 200,000 unique projects and over $6 Billion total funding contributions. The success of a project is determined by the set goal and the amount recieved by the deadline. If the amount pledged exceeds the goal by the deadline, the project is considered successful
 
 # The motivation of this project is to understand the details behind kickstarter projects through the eyes of an investor.
 
