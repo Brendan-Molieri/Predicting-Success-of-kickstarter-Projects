@@ -10,3 +10,5 @@ By answering questions such as:
 # The goal behind this research is to predict whether a kickstarter project will be a success or a failure.
 
 # Datasource: Maven Analytics Data Playground (https://www.mavenanalytics.io/data-playground)
+
+# Conclusion: This project takes an in-depth look at a wide range of kickstarter projects and the outcome, as an example for future projects and investor scouting. The model used in this project was a logistic regression classification model. The model was able to achieve an accuracy of approximately 79%. With this model, investors are able to gauge whether a new kickstarter project will exceed its offering goal.
